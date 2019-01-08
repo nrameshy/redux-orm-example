@@ -2,7 +2,7 @@
 
 This is a (visually very) crude non-async CRUD app that provides an example of redux-orm usage. It's not an ideal app in the sense that lots of things could be abstracted here - but the code should be relatively easy to digest to give you a sense of `redux-orm` and its possibilities.
 
-[Try the Example Book Database app in action](http://tommikaikkonen.github.io/redux-orm-example/). Open up the console to see the store diff and incoming App props after each dispatch.
+[Try the Example Book Database app in action](http://nrameshy.github.io/redux-orm-example/). Open up the console to see the store diff and incoming App props after each dispatch.
 
 ![Screenshot of the Example App](https://raw.githubusercontent.com/tommikaikkonen/redux-orm-example/master/screenshot.png)
 
